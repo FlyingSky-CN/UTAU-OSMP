@@ -1,0 +1,22 @@
+Set WshShell = WScript.CreateObject("WScript.Shell")  
+num=Inputbox("InputNumber","IntputNumber",6)
+WshShell.SendKeys "^a"
+WshShell.SendKeys "^t"
+WshShell.SendKeys " "
+WshShell.SendKeys " "
+WshShell.SendKeys "{TAB}"
+WshShell.SendKeys "{TAB}"
+WshShell.SendKeys "{TAB}"
+WshShell.SendKeys "{TAB}"
+WshShell.SendKeys "{TAB}"
+WshShell.SendKeys "{TAB}"
+WshShell.SendKeys "{TAB}"
+WshShell.SendKeys "{TAB}"
+WshShell.SendKeys num
+WshShell.SendKeys "{TAB}"
+WshShell.SendKeys "{TAB}"
+WshShell.SendKeys "{TAB}"
+WshShell.SendKeys "{TAB}"
+WshShell.SendKeys "{TAB}"
+WshShell.SendKeys " "
+WshShell.SendKeys "~"

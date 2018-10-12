@@ -1,0 +1,3 @@
+name=Ò»¼üÃèµã-FlyingSky
+execute=plugin.vbs
+shell=use
