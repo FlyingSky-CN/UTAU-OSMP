@@ -1,6 +1,8 @@
 # UTAU-OSMP
 
-**UTAU插件:一键描点** **UTAU**plugin-**O**ne**S**tep**M**ake**P**oints
+**UTAU插件:一键描点**
+
+**UTAU**plugin-**O**ne**S**tep**M**ake**P**oints
 
 ## 项目信息
 
