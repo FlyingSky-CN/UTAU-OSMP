@@ -22,9 +22,16 @@ By FlyingSky
     在弹出的对话框中找到本插件文件夹下的hotkey.vbs并双击
     单击OK
 设置完成
-PS：若有疑问可前往FlyingSky's Blog(http://blog.flyingsky.ml/)察看图文教程
+PS：若有疑问可前往FlyingSky's Blog(http://blog.fsky7.com/)察看图文教程
 PSS：请确认通知栏中有WinHotKey图标
 
 ====================
 
 2018/9/30 FlyingSky
+
+====================
+
+Change Log:
+
+April 27th, 2019.
+- Update Blog Domain
